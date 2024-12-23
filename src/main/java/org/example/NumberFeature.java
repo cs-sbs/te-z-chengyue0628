@@ -26,6 +26,8 @@ public class NumberFeature {
             digit_position++;
         }
 
+        result = inputNumber;
+
         System.out.println(result);
     }
 }
